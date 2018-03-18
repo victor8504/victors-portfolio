@@ -19,3 +19,8 @@ li {
 }
 .Email {
   font-style: italic;
+}
+body{
+    background-image: url(/home/victor/Desktop/my-favourite-animal/img/white.jpg);
+    background-repeat: x;
+}
