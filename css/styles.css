@@ -10,3 +10,10 @@ h2 {
 }
 img {
   float: center;
+}
+ul {
+    line-height: 30px;
+}
+li {
+    line-height: 30px;
+}
