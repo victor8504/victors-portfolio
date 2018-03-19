@@ -21,7 +21,7 @@ li {
   font-style: italic;
 }
 body{
-    background-image: url(/home/victor/Desktop/my-favourite-animal/img/white.jpg);
+    background-image: url('../Images/pattern.jpg');
     background-repeat: x;
 }
 @media screen and (max-width: 480px) {
